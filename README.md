@@ -1,7 +1,8 @@
 # RandomTranslate
 A script that randomly translates text n-amounts of times, then translates it to desired language 
 
-Clone this repository into your folder
+To install, clone this repository into your folder.
+
 To create a `venv` with the name ``rndtrns`` run the following command:
 ```
 python -m venv randomtranslate
