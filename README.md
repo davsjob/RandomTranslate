@@ -13,6 +13,8 @@ Then activate it using:
 cd /path/randomtranslate/rndtrns
 scripts/activate.ps1
 ```
+**INSTALL DEPENDENCIES**
+`pip install -r requirements.txt`
 
 Then run it through
 
